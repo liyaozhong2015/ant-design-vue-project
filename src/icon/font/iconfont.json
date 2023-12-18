@@ -1,0 +1,16 @@
+{
+  "id": "4330706",
+  "name": "vue-ant-design-project",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5524673",
+      "name": "404",
+      "font_class": "icon-test",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
